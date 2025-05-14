@@ -37,8 +37,7 @@ module.exports = {
       // Add button components from the imported buttonClasses
       addComponents({
 
-        // Base typography styles
-
+      // Base typography styles
       ".neo-typography": {
       "--heading-font": '"Playfair Display", serif',
       "--body-font": '"Raleway", sans-serif',
